@@ -1,0 +1,9 @@
+streamlit
+boto3
+faiss-cpu
+numpy
+pandas
+PyPDF2
+rank-bm25
+sentence-transformers
+python-dotenv
